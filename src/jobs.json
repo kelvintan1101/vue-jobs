@@ -97,6 +97,20 @@
         "contactEmail": "bazevumo@mailinator.com",
         "contactPhone": "+1 (481) 119-2012"
       }
+    },
+    {
+      "id": "a1c0",
+      "title": "Caldwell Bryant",
+      "type": "Internship",
+      "location": "Nesciunt deserunt c",
+      "description": "Laborum Sint nobis ",
+      "salary": "Over $200K",
+      "company": {
+        "name": "Vargas and Reed Trading",
+        "description": "Est aspernatur veli",
+        "contactEmail": "qavyny@mailinator.com",
+        "contactPhone": "+1 (232) 794-9399"
+      }
     }
   ]
 }
