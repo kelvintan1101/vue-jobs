@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "b0cf",
+      "title": "Reuben Quinn",
+      "type": "Part-Time",
+      "location": "Perferendis id ad v",
+      "description": "Rem quis ipsum conse",
+      "salary": "$175K - $200K",
+      "company": {
+        "name": "Harding and Russo Co",
+        "description": "Dicta sunt in sit e",
+        "contactEmail": "bazevumo@mailinator.com",
+        "contactPhone": "+1 (481) 119-2012"
+      }
     }
   ]
 }
