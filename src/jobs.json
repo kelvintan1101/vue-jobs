@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "982b",
+      "title": "Wendy Pratt",
+      "type": "Internship",
+      "location": "Corrupti sunt aliq",
+      "description": "Et natus incididunt ",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Cook and Short Inc",
+        "description": "Ullamco sed asperior",
+        "contactEmail": "lalysuf@mailinator.com",
+        "contactPhone": "+1 (892) 799-2604"
+      }
     }
   ]
 }
